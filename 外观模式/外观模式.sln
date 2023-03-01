@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "外观模式", "外观模式\外观模式.csproj", "{47958210-5829-46EC-B40D-E05624B9F33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47958210-5829-46EC-B40D-E05624B9F33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47958210-5829-46EC-B40D-E05624B9F33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47958210-5829-46EC-B40D-E05624B9F33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47958210-5829-46EC-B40D-E05624B9F33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C35E82F-ADF0-4D2D-AE05-676577251800}
+	EndGlobalSection
+EndGlobal

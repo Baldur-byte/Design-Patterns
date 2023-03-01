@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "状态模式", "状态模式\状态模式.csproj", "{E3EB4038-D221-4B96-9E3B-96D72B2E23A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3EB4038-D221-4B96-9E3B-96D72B2E23A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EB4038-D221-4B96-9E3B-96D72B2E23A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EB4038-D221-4B96-9E3B-96D72B2E23A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EB4038-D221-4B96-9E3B-96D72B2E23A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37EE5C48-493B-4E48-BC04-0D444328D1B2}
+	EndGlobalSection
+EndGlobal

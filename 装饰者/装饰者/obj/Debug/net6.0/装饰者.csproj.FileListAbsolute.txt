@@ -1,0 +1,15 @@
+D:\Workspace\C#\Practises\装饰者\装饰者\bin\Debug\net6.0\装饰者.exe
+D:\Workspace\C#\Practises\装饰者\装饰者\bin\Debug\net6.0\装饰者.deps.json
+D:\Workspace\C#\Practises\装饰者\装饰者\bin\Debug\net6.0\装饰者.runtimeconfig.json
+D:\Workspace\C#\Practises\装饰者\装饰者\bin\Debug\net6.0\装饰者.dll
+D:\Workspace\C#\Practises\装饰者\装饰者\bin\Debug\net6.0\装饰者.pdb
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\装饰者.csproj.AssemblyReference.cache
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\装饰者.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\装饰者.AssemblyInfoInputs.cache
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\装饰者.AssemblyInfo.cs
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\装饰者.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\装饰者.dll
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\refint\装饰者.dll
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\装饰者.pdb
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\装饰者.genruntimeconfig.cache
+D:\Workspace\C#\Practises\装饰者\装饰者\obj\Debug\net6.0\ref\装饰者.dll
